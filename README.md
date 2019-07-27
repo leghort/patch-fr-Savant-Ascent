@@ -1,10 +1,7 @@
 # patch-fr-Savant-Ascent
 Un patch fr pour le jeux Savant - Ascent
 
-Vous voulait Savant-Ascenter en français ? C'est justement ce que l'on va faire
-
 Alors  une fois le fichier .zip téléchager
-
 1) Décompresser l'archive patch-fr-Savant-Ascent-master.zip
 
 2) Faite un clic droit copier sur le fichier "en.ini"
