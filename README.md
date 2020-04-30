@@ -5,9 +5,13 @@ Un patch fr pour le jeux Savant - Ascent
 
 Alors  une fois le fichier .zip téléchager
 
+### Table des matières
+**[Installation](https://github.com/leghort/patch-fr-Savant-Ascent#installation)**</br>
+**[Désinstallation](https://github.com/leghort/patch-fr-Savant-Ascent#d%C3%A9sinstallation)**</br>
+
 ## Installation:
 1) Décompresser l'archive patch-fr-Savant-Ascent-master.zip
-2) Faite un clic droit copier sur le fichier "en.ini"
+2) Faire un clic droit copier sur le fichier "en.ini"
 3) Dans votre bibliothèque steam faite un clic droit sur le jeu.
 4) Puis un clic sur "Propriétés"
 5) Dans l'onglet FICHIER LOCAUX cliquez sur PARCOURIR LES FICHIER LOCAUX...
@@ -19,4 +23,4 @@ Alors  une fois le fichier .zip téléchager
 1) Dans votre bibliothèque steam faite un clic droit sur le jeu.
 2) Puis un clic sur "Propriétés"
 3) Dans l'onglet FICHIER LOCAUX cliquez sur VÈRIFIER L'INTÈGRITÉ DES FICHIERS DU JEU...
-4) Steam va retélécharger le fichier "en.ini" et repasser le jeu en ENGLISH
+4) Steam va re-télécharger le fichier "en.ini" originel et repasser le jeu en ENGLISH
